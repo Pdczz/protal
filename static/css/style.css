@@ -113,7 +113,8 @@ body, input, button, textarea, select {
 	color: #FFFFFF;
 	font-size: 26px;
 	font-weight: 100;
-	background: #3399CC url(../images/logo.png) no-repeat 50% 50%;
+	/*background: #3399CC url(../images/logo.png) no-repeat 50% 50%;*/
+	background: #3399CC ;
 }
 .header-xs-logo .navbar-toggle {
 	padding: 0px;

@@ -70,12 +70,6 @@ export default {
 
 
   build: {
-    plugins: [
-      new webpack.ProvidePlugin({
-        '$': 'jquery',
-
-      })
-    ],
     vendor: 'axios'
   },
 
